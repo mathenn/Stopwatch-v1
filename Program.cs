@@ -10,6 +10,11 @@ namespace StopWatch
             Start(2);
         }
 
+        static void Menu()
+        {
+            
+        }
+
         static void Start(int time)
         {
             int currentTime = 0;
